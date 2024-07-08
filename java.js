@@ -1,8 +1,8 @@
 const pdfData = [
-    { name: 'm.sabry', url: 'file:///D:/user/web%20site%20regina/supervisor.html'},
+    { name: 'm.sabry', url: 'https://reginasalesbuzz.github.io/salesbuzz/supervisor.html'},
     { name: 'bassem.ramadan', url: 'file:///D:/user/web%20site%20regina/acc1.html' },
     { name: 'SMR01', url: 'file:///D:/user/web%20site%20regina/Sales%20man.html' },
-    { name: 'amr.helaly' , url: 'file:///D:/user/web%20site%20regina/index.html' },
+    { name: 'amr.helaly' , url: 'https://reginasalesbuzz.github.io/salesbuzz/index.html' },
     { name: 'regina manager', url: 'file:///D:/user/web%20site%20regina/report.html' },
     { name: 'test', url: 'file:///D:/user/web%20site%20regina/index.html' },
   ];
